@@ -87,7 +87,7 @@ e de seus clientes, desta forma: <br>
 
 Razão Social: MERCADOLIVRECOM ATIVIDADES DE INTERNET LTDA<br>
 Nome Fantasia: Mercado Livre<br>
-----------------------------------------------------------
+ ----------------------------------------------------------
 Nome: Pietra<br>
 Estado: SP, Cidade: São José dos Campos, Rua: Rua das Flores, Número: 437<br>
 ddd: 12 .......... número: 998457613<br>
