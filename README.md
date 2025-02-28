@@ -58,15 +58,15 @@ na empresa.
 O cnpj de uma empresa é algo que não deve mudar após a criação do objeto. Por isso, este atributo deve ser privado na classe empresa.<br>
 
 class Empresa{<br>
-    &nbsp;#cnpj<br>
-    &nbsp;constructor(razaoSocial, nomeFantasia, cnpj, endereco){<br>
-        &nbsp;&nbsp;this.endereco<br>
-        &nbsp;&nbsp;this.nomeFantasia = nomeFantasia<br>
-        &nbsp;&nbsp;this.razaoSocial = razaoSocial<br>
-        &nbsp;&nbsp;this.#cnpj = cnpj<br>
-        &nbsp;&nbsp;this.clientes = new Set()<br>
-        &nbsp;&nbsp;this.telefones = new Set()<br>
-    &nbsp;}<br>
+    #cnpj<br>
+    constructor(razaoSocial, nomeFantasia, cnpj, endereco){<br>
+        this.endereco<br>
+        this.nomeFantasia = nomeFantasia<br>
+        this.razaoSocial = razaoSocial<br>
+        this.#cnpj = cnpj<br>
+        this.clientes = new Set()<br>
+        this.telefones = new Set()<br>
+    }<br>
 }<br>
 
 ## Objetivos, parte 1
