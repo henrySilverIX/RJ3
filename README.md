@@ -34,7 +34,6 @@ Um cliente pode ter uma lista de telefones, que pode crescer
 ou diminuir.
 
 ### Telefone
-
 A classe telefone não deve possuir atributos privados.
 
 ```javascript
@@ -49,7 +48,6 @@ Esta classe servirá para criar objetos que serão usados em clientes e
 na empresa.
 
 ### Endereço
-
 A classe endereço não deve possuir atributos privados.
 
 ```javascript
